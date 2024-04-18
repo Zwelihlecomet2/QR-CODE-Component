@@ -16,3 +16,12 @@
 
     }
 }
+
+@media (min-width: 500px){
+    .container .img-container{
+        height: 69%;
+        width: 20%;
+        background-color: white;
+        border-radius: 15px;
+    }
+}
